@@ -1,0 +1,8 @@
+/* Estilos para la posición absoluta de los fantasmas */
+.ghost {
+    position: absolute;
+    width: 50px; /* Ajusta el tamaño según tus necesidades */
+    height: 50px;
+}
+
+/* Estilos adicionales que desees añadir */
